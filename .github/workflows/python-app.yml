@@ -35,5 +35,5 @@ jobs:
             #Step 4: Run tests
 
             - name : Run tests
-              run : pytest
+              run : pytest #Looks for the test folder to run the unit test cases
 
